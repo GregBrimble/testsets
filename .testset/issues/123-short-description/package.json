@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "test": "npx vitest"
+  },
+  "devDependencies": {
+    "vitest": "^0.23.4"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "my-lib",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "npx tsc ./src/index.ts --outDir ./dist"
+  }
+}
